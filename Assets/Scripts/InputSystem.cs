@@ -69,7 +69,10 @@ public class InputSystem : MonoBehaviour
 
     private void Jump()
     {
-        rb2D.AddForce(new Vector2(0,jumpForce*100));
+        if (Mathf.Abs(rb2D.velocity.y) <0.0001)
+        {
+            rb2D.AddForce(new Vector2(0,jumpForce*100));
+        }
     }
 
     private void Move()
