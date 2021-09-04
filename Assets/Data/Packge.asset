@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 329d07acdde786b4f85c539a073117b0, type: 3}
+  m_Name: Packge
+  m_EditorClassIdentifier: 
+  items:
+  - Name: "\u767D\u5DE7\u514B\u529B"
+    IconName: choco
+    Content: "\u4E00\u5305\u5DF2\u6253\u958B\u7684\u767D\u8272\u5DE7\u514B\u529B\uFF0C\u5230\u671F\u65E5\u88AB\u5283\u6389"
+    Count: 0
+  - Name: "\u9ED1\u5DE7\u514B\u529B"
+    IconName: choco_D
+    Content: "\u4E00\u5305\u5DF2\u6253\u958B\u7684\u9ED1\u8272\u5DE7\u514B\u529B\uFF0C\u5230\u671F\u65E5\u88AB\u5283\u6389"
+    Count: 2
+  - Name: "\u767D\u8272\u85E5\u6C34"
+    IconName: cure
+    Content: "\u4E0D\u65B7\u5192\u6CE1\u7684\u4E0D\u77E5\u540D\u767D\u8272\u85E5\u6C34\uFF0C\u672A\u5C01\u84CB"
+    Count: 0
+  - Name: "\u7D05\u8272\u85E5\u6C34"
+    IconName: cure_R
+    Content: "\u4E0D\u65B7\u5192\u6CE1\u7684\u4E0D\u77E5\u540D\u7D05\u8272\u85E5\u6C34\uFF0C\u672A\u5C01\u84CB"
+    Count: 3
+  - Name: "\u6A59\u8272\u85E5\u6C34"
+    IconName: cure_O
+    Content: "\u4E0D\u65B7\u5192\u6CE1\u7684\u4E0D\u77E5\u540D\u6A59\u8272\u85E5\u6C34\uFF0C\u672A\u5C01\u84CB"
+    Count: 7
+  - Name: "\u9EC3\u8272\u85E5\u6C34"
+    IconName: cure_Y
+    Content: "\u4E0D\u65B7\u5192\u6CE1\u7684\u4E0D\u77E5\u540D\u9EC3\u8272\u85E5\u6C34\uFF0C\u672A\u5C01\u84CB"
+    Count: 1
+  - Name: "\u7DA0\u8272\u85E5\u6C34"
+    IconName: cure_G
+    Content: "\u4E0D\u65B7\u5192\u6CE1\u7684\u4E0D\u77E5\u540D\u7DA0\u8272\u85E5\u6C34\uFF0C\u672A\u5C01\u84CB"
+    Count: 4
+  - Name: "\u85CD\u8272\u85E5\u6C34"
+    IconName: cure_B
+    Content: "\u4E0D\u65B7\u5192\u6CE1\u7684\u4E0D\u77E5\u540D\u85CD\u8272\u85E5\u6C34\uFF0C\u672A\u5C01\u84CB"
+    Count: 5
+  - Name: "\u9470\u5319"
+    IconName: key
+    Content: "\u7591\u4F3C\u6709\u9632\u76DC\u82AF\u7247\u7684\u9470\u5319"
+    Count: 0
